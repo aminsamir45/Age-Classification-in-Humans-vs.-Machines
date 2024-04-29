@@ -1,0 +1,76 @@
+3.9768 	ERROR 	Plugin `psychopy-cedrus` entry point requires module `psychopy_cedrus`, but it cannot be imported.
+6.8880 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+6.8888 	INFO 	Loaded monitor calibration from ['2024_04_21 12:03']
+7.1070 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fb240c24550>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fb240c24b20>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fb240c24640>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fb240c77310>, multiSample=False, name='window1', numSamples=2, pos=[464.0, 258.0], screen=0, size=array([2048, 1536]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.1071 	EXP 	window1: mouseVisible = True
+7.1071 	EXP 	window1: backgroundImage = ''
+7.1071 	EXP 	window1: backgroundFit = 'none'
+7.1073 	EXP 	window1: mouseVisible = True
+7.1074 	EXP 	window1: mouseVisible = True
+7.1112 	EXP 	window1: mouseVisible = True
+7.1117 	EXP 	window1: mouseVisible = True
+7.1170 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1178 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1187 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1199 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1211 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1215 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1223 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1236 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1238 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1240 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1249 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1257 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1264 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1273 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1279 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1289 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1297 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1301 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1305 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1317 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1320 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1322 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.1357 	DEBUG 	Upload of Texture Font fontname complete
+7.1381 	EXP 	window1: mouseVisible = True
+7.1382 	EXP 	window1: mouseVisible = True
+7.1387 	EXP 	window1: mouseVisible = True
+7.1392 	EXP 	window1: mouseVisible = True
+7.1433 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1445 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1457 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1459 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.1480 	DEBUG 	Upload of Texture Font fontname complete
+7.1507 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.1508 	EXP 	window1: recordFrameIntervals = False
+7.4047 	EXP 	window1: recordFrameIntervals = True
+8.2381 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+8.2382 	EXP 	window1: mouseVisible = False
+8.2386 	EXP 	window1: mouseVisible = True
+8.2388 	EXP 	window1: mouseVisible = True
+8.2397 	EXP 	window1: mouseVisible = True
+8.2406 	EXP 	window1: mouseVisible = True
+8.2474 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2482 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2497 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2519 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2537 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2557 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2563 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2578 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2595 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2611 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2614 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.2649 	DEBUG 	Upload of Texture Font fontname complete
+8.2679 	EXP 	window1: mouseVisible = True
+8.2681 	EXP 	window1: mouseVisible = True
+8.2687 	EXP 	window1: mouseVisible = True
+8.2693 	EXP 	window1: mouseVisible = True
+8.2855 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+38.5468 	EXP 	window1: mouseVisible = True
+38.5482 	DEBUG 	Saving data for untitled ExperimentHandler
+38.5489 	INFO 	saved data to /Users/sopsahl/Desktop/9-60-Project/data/331203_untitled_2024-04-21_12h26.40.337.psydat
+38.5493 	INFO 	saved data to '/Users/sopsahl/Desktop/9-60-Project/data/331203_untitled_2024-04-21_12h26.40.337.csv'
