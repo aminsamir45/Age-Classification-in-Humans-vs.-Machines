@@ -4,6 +4,10 @@
 
 This project aims to compare age classification capabilities between humans and machine learning models. Participants will be shown a series of faces and asked to classify the age range of each face. Simultaneously, a machine learning model will perform the same task, allowing for a comparative analysis of human and machine performance.
 
+## Paper
+https://docs.google.com/document/d/13pvbfnQYeaDaMjIC3RbqOk16CyWcZHKNKNTSTMV3WH0/edit?tab=t.0
+
+
 ## Project Structure
 
 - **scripts/**: Contains JavaScript files for running the experiment using PsychoJS.
